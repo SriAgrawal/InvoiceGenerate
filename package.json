@@ -2,7 +2,7 @@
   "name": "invoice-generator",
   "version": "1.2.1",
   "private": true,
-  "homepage": "https://tuanpham-dev.github.io/react-invoice-generator/",
+  "homepage": "https://SriAgrawal.github.io/InvoiceGenerate/",
   "dependencies": {
     "@react-pdf/renderer": "^2.0.18",
     "@testing-library/jest-dom": "^4.2.4",
@@ -49,8 +49,7 @@
     "@types/rc-slider": "^8.6.5",
     "@types/react-datepicker": "^3.1.1",
     "@types/react-textarea-autosize": "^4.3.5",
-    "gh-pages": "^3.1.0",
-    "node-sass":"7.0.1"
-  
+    "gh-pages": "^3.2.3",
+    "sass": "^1.52.3"
   }
 }
